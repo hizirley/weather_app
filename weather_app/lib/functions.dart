@@ -19,7 +19,7 @@ Widget dateTimeInfoWidget(BuildContext context, Weather? weather) {
   return Column(
     children: [
       Text(
-        DateFormat('dd').format(now),
+        DateFormat('EE').format(now),
         style: TextStyle(
             fontSize: 30,
             fontWeight: FontWeight.bold,
