@@ -1,0 +1,1 @@
+const OPENWEATHER_API_KEY = ''; //apikey buraya
